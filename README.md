@@ -17,8 +17,15 @@
 
 <br />
 
+### Some of my projects website links:
+
+- Covid-19 Tracker Website[covid]
+- FoodX Recipe Website[foodx]
+
 [twitter]: https://twitter.com/BiratPoudel10
 [youtube]: https://www.youtube.com/channel/UCLm7z61WYqVHuB3RmOsfxKw
 [instagram]: https://instagram.com/iampoudel.birat/
 [linkedin]: https://www.linkedin.com/in/birat-poudel-6562ba16b/
-[facebook]: https://www.facebook.com/birat.poudel.750/
+[facebook]: https://www.facebook.com/birat.poudel.750/  
+[covid]: https://covid-19-b2b01.web.app/
+[foodx]: https://foodx123.firebaseapp.com/
