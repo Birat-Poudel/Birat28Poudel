@@ -2,10 +2,10 @@
 
 ## I'm a Computer Science enthusiast !!!
 
-- 🌱 I’m currently learning everything 🤣
+- 📕 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to make short edits
+- 🎬 Fun fact: I love to make short edits
 
 ### Connect with me:
 
@@ -19,8 +19,8 @@
 
 ### Some of my projects website links:
 
-- Covid-19 Tracker Website[covid]
-- FoodX Recipe Website[foodx]
+- 💡 Covid-19 Tracker Website ===> [covid-19]
+- 💡 FoodX Recipe Website ===> [foodx]
 
 [twitter]: https://twitter.com/BiratPoudel10
 [youtube]: https://www.youtube.com/channel/UCLm7z61WYqVHuB3RmOsfxKw
