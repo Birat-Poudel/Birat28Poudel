@@ -24,7 +24,7 @@
 
 ### You can download detailed description about my projects from below link:
 
-- ✔✔✔ [DownloadLink]
+- ✔ [DownloadLink]
 
 ### Skills
 
