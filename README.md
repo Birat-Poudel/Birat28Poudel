@@ -3,9 +3,9 @@
 ## I'm a Technology enthusiast !!!
 
 - 📕 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🎬 Fun fact: I love to make short edits
+- 👯 I’m looking to collaborate with other creators.
+- 🥅 2021 Goals: Contribute more to Open Source Projects.
+- 🎬 Fun fact: I love to make short edits.
 
 ### Connect with me:
 
@@ -21,6 +21,10 @@
 - 💡 Covid-19 Tracker Website ===> [covid-19]
 - 💡 FoodX Recipe Website ===> [foodx]
 - 💡 Web-Scraping and Discord bots.
+
+### You can download detailed description about my projects from below link:
+
+- ✔✔✔ [DownloadLink]
 
 ### Skills
 
@@ -42,3 +46,4 @@
 [facebook]: https://www.facebook.com/birat.poudel.750/  
 [covid-19]: https://covid-19-b2b01.web.app/
 [foodx]: https://foodx123.firebaseapp.com/
+[DownloadLink]: https://github.com/Birat28Poudel/portfolio_items/blob/main/freelancing_portfolio_document.docx/
