@@ -39,6 +39,9 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+### If you want to read my blogs:
+
+- Blogs ===> [blog]
 
 [youtube]: https://www.youtube.com/channel/UCLm7z61WYqVHuB3RmOsfxKw
 [instagram]: https://instagram.com/iampoudel.birat/
@@ -47,3 +50,4 @@
 [covid-19]: https://covid-19-b2b01.web.app/
 [foodx]: https://foodx123.firebaseapp.com/
 [DownloadLink]: https://github.com/Birat28Poudel/portfolio_items/blob/main/freelancing_portfolio_document.docx/
+[blog]: https://biratpoudel.wordpress.com/
